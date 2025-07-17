@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/enigmaticharvest-dummy-mcp-weather-server-badge.png)](https://mseep.ai/app/enigmaticharvest-dummy-mcp-weather-server)
+
 # My MCP Weather Server
 
 This project is an example of an MCP (Model Context Protocol) server built with the `@modelcontextprotocol/sdk` for TypeScript. It demonstrates how to expose a simple tool that provides dummy weather information for a few predefined cities.
